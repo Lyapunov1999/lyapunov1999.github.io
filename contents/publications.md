@@ -1,1 +1,1 @@
-- H Xu, <strong>C Yang</strong>, R. Jiang (2024). LOWER-LEVEL DUALITY BASED PENALTY METHODS FOR HYPERPARAMETER OPTIMIZATION. <strong>Under Review.</strong> [[PDF]](https://github.com/lyapunov1999/LDPM)
+- H. Xu, <strong>C. Yang</strong>, R. Jiang (2024). LOWER-LEVEL DUALITY BASED PENALTY METHODS FOR HYPERPARAMETER OPTIMIZATION. <strong>Under Review.</strong> [[PDF]](https://github.com/lyapunov1999/LDPM)
