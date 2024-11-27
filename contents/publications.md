@@ -1,1 +1,1 @@
-- H. Xu, <strong>C. Yang</strong>, R. Jiang (2024). Lower-level Duality Based Penalty Methods for Hyperparameter Optimization. <strong>Under Review.</strong> [[PDF]](https://github.com/lyapunov1999/LDPM.pdf)
+- H. Xu, <strong>C. Yang</strong>, R. Jiang (2024). Lower-level Duality Based Penalty Methods for Hyperparameter Optimization. <strong>Under Review.</strong> [[PDF]](https://github.com/Lyapunov1999/lyapunov1999.github.io/blob/main/docs/LDPM.pdf)
