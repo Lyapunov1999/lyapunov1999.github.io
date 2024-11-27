@@ -1,3 +1,1 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
-
-- TODO
+- H Xu, <strong>C Yang</strong>, R. Jiang (2024). LOWER-LEVEL DUALITY BASED PENALTY METHODS FOR HYPERPARAMETER OPTIMIZATION. <strong>Under Review.</strong> [[PDF]](https://github.com/lyapunov1999/LDPM)
